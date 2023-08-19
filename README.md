@@ -21,4 +21,4 @@ Majd létrehoztam az evenOddSorter.js filet és megírtam a programot.
 npm run test
 ```
 
-<img width="414" alt="image" src="https://github.com/theCodeDesigner/softwear-testing-exam/assets/130493030/33b50f21-dab3-416f-ac7f-8687420deef5">
+<img width="800" alt="image" src="https://github.com/theCodeDesigner/softwear-testing-exam/assets/130493030/33b50f21-dab3-416f-ac7f-8687420deef5">
