@@ -1,3 +1,3 @@
 # software-testing-exam
-##Leírás 
+## Leírás 
 Ebben a projektben egy egyszerű páros páratlan számlálót készítettem a Softwer tesztelési vizsgámra! 
